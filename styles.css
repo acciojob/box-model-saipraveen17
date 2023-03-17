@@ -1,1 +1,37 @@
-/*  your css code here. If applicable */
+.container {
+	background-color:#d3d3d3;
+	border-radius:50px;
+	height:200px;
+	width:500px;
+	border:solid 5px black;
+/*   display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; */
+}
+.green {
+	background-color:green;
+	border-radius:50px;
+	height:100px;
+	width:100px;
+	display:inline-block;
+	margin-top:45px;
+	margin-left:90px;
+}
+.yellow {
+	background-color:yellow;
+	border-radius:50px;
+	height:100px;
+	width:100px;
+	display:inline-block;
+	
+}
+.red {
+	background-color:red;
+	border-radius:50px;
+	height:100px;
+	width:100px;
+	display:inline-block;
+	
+}
+
